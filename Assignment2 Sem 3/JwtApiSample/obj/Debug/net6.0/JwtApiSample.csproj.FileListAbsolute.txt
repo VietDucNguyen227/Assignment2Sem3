@@ -1,0 +1,813 @@
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\appsettings.Development.json
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\appsettings.json
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\JwtApiSample.exe
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\JwtApiSample.deps.json
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\JwtApiSample.runtimeconfig.json
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\JwtApiSample.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\JwtApiSample.pdb
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Humanizer.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.csproj.AssemblyReference.cache
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.AssemblyInfoInputs.cache
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.AssemblyInfo.cs
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.csproj.CoreCompileInputs.cache
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.MvcApplicationPartsAssemblyInfo.cs
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.MvcApplicationPartsAssemblyInfo.cache
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.JwtApiSample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.build.JwtApiSample.props
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JwtApiSample.props
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JwtApiSample.props
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets.build.json
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets.development.json
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\scopedcss\bundle\JwtApiSample.styles.css
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.csproj.CopyComplete
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\refint\JwtApiSample.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.pdb
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.genruntimeconfig.cache
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\ref\JwtApiSample.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\MessagePack.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Build.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Common.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\exercise\exercise\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.csproj.AssemblyReference.cache
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.AssemblyInfoInputs.cache
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.AssemblyInfo.cs
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.csproj.CoreCompileInputs.cache
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.MvcApplicationPartsAssemblyInfo.cache
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\refint\JwtApiSample.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.pdb
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\appsettings.Development.json
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\appsettings.json
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\JwtApiSample.exe
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\JwtApiSample.deps.json
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\JwtApiSample.runtimeconfig.json
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\JwtApiSample.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\JwtApiSample.pdb
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Humanizer.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.MvcApplicationPartsAssemblyInfo.cs
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.JwtApiSample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.build.JwtApiSample.props
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JwtApiSample.props
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JwtApiSample.props
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets.build.json
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\staticwebassets.development.json
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\scopedcss\bundle\JwtApiSample.styles.css
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.csproj.CopyComplete
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\JwtApiSample.genruntimeconfig.cache
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\obj\Debug\net6.0\ref\JwtApiSample.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\MessagePack.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Build.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Common.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\weed\NodeJs\Ex\exercise-main\CSharp\JwtApiSample\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\appsettings.json
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\JwtApiSample.exe
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\JwtApiSample.deps.json
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\JwtApiSample.runtimeconfig.json
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\JwtApiSample.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\JwtApiSample.pdb
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\MessagePack.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.csproj.AssemblyReference.cache
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.AssemblyInfoInputs.cache
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.AssemblyInfo.cs
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.csproj.CoreCompileInputs.cache
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.JwtApiSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.build.JwtApiSample.props
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JwtApiSample.props
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JwtApiSample.props
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\scopedcss\bundle\JwtApiSample.styles.css
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.csproj.CopyComplete
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\refint\JwtApiSample.dll
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.pdb
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\JwtApiSample.genruntimeconfig.cache
+C:\Users\vietd\OneDrive\Máy tính\Assignment2Sem3\Assignment2 Sem 3\JwtApiSample\obj\Debug\net6.0\ref\JwtApiSample.dll
